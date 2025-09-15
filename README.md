@@ -45,6 +45,6 @@ Building intelligent web apps using the **MERN stack**, **Python**, and **Machin
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandu-kumar23/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandu-kumar-madhapure/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nandukumar7.github.io/)  
-📧 nandukumar23@gmail.com
+📧 nandu2312@gmail.com
